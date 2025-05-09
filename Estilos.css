@@ -1,0 +1,7 @@
+.claseContenedorDiv1 { /* afectara a algunos contenedores div */
+  font-size: 50px;
+  width: 800px;
+  height: 600px;
+  background-color: rgba(232, 233, 218, 0.562);
+
+}
